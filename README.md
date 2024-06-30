@@ -5,6 +5,6 @@ puzzles. It consists of an HTML interface where users can generate and solve Sud
 puzzles of varying difficulties.
 
 Technologies Used:
-HTML
-CSS
+HTML,
+CSS,
 JavaScript
